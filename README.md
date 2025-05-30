@@ -44,6 +44,15 @@ Incorporação do Power BI para análises mais avançadas.
 
 Versão mobile aprimorada para acesso ainda mais ágil.
 
+![image](https://github.com/user-attachments/assets/504cdb30-0a4e-442b-b4bb-78ee11e39372)
+
+![image](https://github.com/user-attachments/assets/b838fe9c-2577-4873-a3b3-2c666c48eb0b)
+
+![image](https://github.com/user-attachments/assets/5a711fd8-da20-4584-82ee-ac97cb7044f9)
+
+
+
+
 📌 Conclusão
 
 Este projeto demonstra como o Power Apps pode ser uma ferramenta poderosa para transformar a gestão de produtos e serviços no setor imobiliário. Com automação e análise estratégica, a solução proporciona mais eficiência e visibilidade para os profissionais do ramo.
